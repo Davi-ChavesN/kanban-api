@@ -118,14 +118,56 @@ Estão aqui todos os participantes que colaboraram com o decorrer desse projeto.
 <table style="border: solid 2px rebeccapurple">
 	<tr>
 		<td align="center">
-			<a href="https://www.linkedin.com/in/rabispedro/">
-				<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/42853022?v=4" width="100px;" />
+			<a href="https://www.linkedin.com/in/chaves-davi/">
+				<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/135075000?v=4" width="100px;" />
 				<br/>
 				<sub>
 					<b>
 						☕ Desenvolvedor
-						</br>
-						🗃 Product Owner
+					</b>
+				</sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://www.linkedin.com/in/nícollas-ferreira-fernandes-4b211a293/">
+				<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/106936864?v=4" width="100px;" />
+				<br/>
+				<sub>
+					<b>
+						☕ Desenvolvedor
+					</b>
+				</sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://www.linkedin.com/in/joão-gabriel-rodrigues-caetano-22019729a/">
+				<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/165036195?v=4" width="100px;" />
+				<br/>
+				<sub>
+					<b>
+						☕ Desenvolvedor
+					</b>
+				</sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://www.linkedin.com/in/diogo-ribeiro-025567300/">
+				<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/165932970?v=4" width="100px;" />
+				<br/>
+				<sub>
+					<b>
+						☕ Desenvolvedor
+					</b>
+				</sub>
+			</a>
+		</td>
+		<td align="center">
+			<a href="https://www.linkedin.com/in/mateus-caetano-5925b7301/">
+				<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/165328934?v=4" width="100px;" />
+				<br/>
+				<sub>
+					<b>
+						☕ Desenvolvedor
 					</b>
 				</sub>
 			</a>
